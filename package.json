@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build:dev": "webpack serve --inline --hot --env=dev",
-    "build:dist": "webpack --env=prod --progress --profile --mode=production",
-    "build:pkg_win": "package_app.bat"
+    "build:dist": "webpack --env=prod --progress --profile --mode=production"
   },
   "keywords": [],
   "author": "",
