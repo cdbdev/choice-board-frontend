@@ -1,0 +1,21 @@
+{
+  "students": "Leerlingen",
+  "corner_chooser": "Kies de gewenste hoeken om te tonen",
+  "new": "Nieuw",
+  "name": "Naam",
+  "image": "Afbeelding",
+  "upload_image": "Afbeelding opladen",
+  "actions": "Acties",
+  "edit": "Bewerken",
+  "firstname": "Voornaam",
+  "lastname": "Achternaam",
+  "add": "Toevoegen",	
+  "remove": "Verwijderen",
+  "confirmation": "Deze actie kan niet ongedaan worden gemaakt, bent u zeker?",
+  "corner_remove_message": "De volgende hoek zal verwijderd worden: ",
+  "remove_data": "Gegevens verwijderen",
+  "rem_only_activities": "Enkel activiteiten",
+  "rem_act_and_student": "Activiteiten + leerlingen",
+  "rem_all": "Alles",
+  "count": "Aantal leerlingen"
+}
