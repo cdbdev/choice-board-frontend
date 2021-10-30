@@ -11,4 +11,5 @@ Run `npm install`.
 
 To run in DEV-mode: `npm run build:dev`.
 
-If you want to build a bundle: `npm run build:dist`.
+If you want to build a bundle: `npm run build:dist`.  
+> It is safe to ignore the warnings about the size limits.
